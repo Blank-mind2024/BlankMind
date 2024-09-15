@@ -76,10 +76,10 @@ void loop()
     // trot_plan(t, dt, 30, 30, 1, 1, 1, 1, y_pos, x_pos);
     trot_plan(t, ys, yf, h, r1, r2, r3, r4, y_pos, x_pos);
     dog_move_legs(pwm, servos, x_pos, y_pos);
-    float alpha = -50;
-    float beta = 0;
+    // float alpha = -50;
+    // float beta = 0;
     // hip_move_angle(pwm, servos, alpha);
 
-    knee_move_angle(pwm, servos, beta);
-    delay(50);
+    // knee_move_angle(pwm, servos, beta);
+    // delay(20);
 }
