@@ -1,6 +1,3 @@
-[submodule "Projects/DogControler"]
-	path = Projects/DogControler
-	url = https://github.com/Airporal/Dog2.git
 [submodule "Projects/DogControl"]
-	path = Projects/DogControl
+	path = Projects/DogControler
 	url = https://github.com/Airporal/Dog2.git
