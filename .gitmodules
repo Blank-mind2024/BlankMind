@@ -1,0 +1,3 @@
+[submodule "Projects/DogProject"]
+	path = Projects/DogProject
+	url = https://github.com/Airporal/Dog2.git
