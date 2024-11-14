@@ -1,5 +1,0 @@
-SPI
-esphome/ESPAsyncWebServer-esphome@^3.2.2
-adafruit/Adafruit PWM Servo Driver Library@^3.0.2
-bblanchon/ArduinoJson@^7.1.0
-esphome/AsyncTCP-esphome@^2.1.4
